@@ -103,8 +103,14 @@ Finally, an entity–relationship diagram has been developed for the Eclipse MVD
 
 
 ## 3. User Interface Prototype
+The purpose of this research is to conceptualize the MVDS code in a way that makes data spaces more transparent and understandable, particularly for non-technical actors. Currently, both MVDSs only provide a backend interface that can be accessed via Postman, which makes the processes abstract and difficult to grasp. As a result, data space users often lack clarity about how their data is being used, to what extent, and who has access within the data space. To address this, a mockup of a potential user interface has been developed on top of the IDSA MVDS. This prototype can help demonstrate to users how their data offers are processed. A short video of the user interface prototype is shown below. One can run this frontend themselves by cloning this GitHub repository.
+
+![User Interface Prototype](img/FrontendMockup.gif)
 
 ## 4. Conclusion
+
+This GitHub repository provides a front-end built on top of the Minimum Viable Data Spaces (MVDS) from the International Data Spaces Association (IDSA), aimed at making data space processes more transparent for non-technical users. It includes conceptual analyses of both MVDS implementations through use case, sequence, and entity–relationship diagrams, complementing a related research paper. 
+
 
 ## Acknowledgements
 This work is supported by the UPSCALE project, funded by the Dutch Organization for
