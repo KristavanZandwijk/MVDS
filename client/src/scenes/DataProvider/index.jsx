@@ -2,7 +2,7 @@ import React from "react";
 import { Box, Typography, useTheme, Button } from "@mui/material";
 import Header from "components/Header";
 import { useNavigate } from "react-router-dom";
-import UMLDiagram from "assets/UML_Offer.png";
+import UMLDiagram from "assets/UML_Offer.svg";
 
 
 const DataProvider = () => {

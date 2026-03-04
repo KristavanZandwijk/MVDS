@@ -177,8 +177,7 @@ const filteredOffers = offers
       </Box>
 
       <Typography variant="body1" color={theme.palette.neutral[200]} mb={2}>
-        Here you can see the offers made by your connector. Complete offers are marked in green,
-        incomplete ones show missing requirements.
+        Here you can see the offers made by your connector. Complete offers are marked in <strong style={{ color: "green" }}>green</strong>, incomplete in <strong style={{ color: "red" }}>red</strong>. When offers are incomplete, the missing requirements are listed at the end of the offer overview.
       </Typography>
 
       {/* Search bar */}
