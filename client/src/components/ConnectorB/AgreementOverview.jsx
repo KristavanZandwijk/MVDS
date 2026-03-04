@@ -195,7 +195,7 @@ const AgreementOverview = () => {
       </Box>
 
       <Typography variant="body1" color={theme.palette.neutral[200]} mb={2}>
-        Complete agreements are shown in <strong style={{ color: "green" }}>green</strong>, incomplete in <strong style={{ color: "red" }}>red</strong>. For complete contract, it is possible to access the data. Click the link to view the data!
+        Complete agreements are shown in <strong style={{ color: "green" }}>green</strong>, incomplete in <strong style={{ color: "red" }}>red</strong>. For complete contracts, you can access the data via the link.
       </Typography>
 
       <Box mb={2}>
