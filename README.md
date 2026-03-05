@@ -114,6 +114,6 @@ This GitHub repository provides a front-end built on top of the Minimum Viable D
 
 ## Acknowledgements
 This work is supported by the UPSCALE project, funded by the Dutch Organization for
-Scientific Research (NWO). For more information, visit the website https://upscaleproject.nl/ 
+Scientific Research (NWO). For more information, visit the website https://upscaleproject.nl/ or https://www.nwo.nl/en/projects/kich1ed0722014.
 
 If you use this work, please cite it as: 
